@@ -84,6 +84,6 @@ I love working on intelligent desktop and mobile applications, experimenting wit
 
 <div align="center">
 
-> **"Build to Learn. Code to Impact. Share to Grow."** – Osama Saeed
+> **"Build to Learn. Code to Impact. Share to Grow."** – Osamah Saeed
 
 </div>
