@@ -1,68 +1,97 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer at work" width="35%"/><br>
+
+### 👋 Welcome to my GitHub space!
+
+I'm **Osamah Saeed Mohammed**, a Computer Science & IT student at **Ibb University**, passionate about building practical, scalable software solutions using **Java**, **Python**, **C#**, **SQL Server**, **Dart**, and **Web Technologies**. I enjoy crafting smart desktop, mobile, and AI-powered systems. I also share my work and connect with developers on my social platforms.
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Osamah Saeed Mohammed</h1>
-<h3 align="center">A passionate Computer Science & IT student and aspiring Software Developer from Yemen 🇾🇪</h3>
+---
+
+### 🚀 About Me | عني
+
+- 🎓 Computer Science & IT student at *Ibb University*
+- 💻 Skilled in **Mobile Apps**, **Desktop Development**, and **AI Systems**
+- 🌐 Exploring **Web Development** and full-stack solutions
+- 🤖 Interested in **Artificial Intelligence** and real-life problem-solving
+- 🧠 أحب بناء الأنظمة الذكية وتطبيقات الهاتف وسطح المكتب
+- 🔗 تواصل معي:
+  - [Facebook – Osama Aljabali](https://www.facebook.com/share/19e6TH2UHE/)
+  - [Telegram – @Osama_Saeed_Aljabali](https://t.me/Osama_Saeed_Aljabali)
+  - [Instagram – osama.aljabali.75](https://www.instagram.com/osama.aljabali.75?utm_source=qr&igsh=MWZzczhxbzUxcG02)
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 I'm currently studying **Computer Science & Information Technology** at **Ibb University**.
-- 🌱 Currently learning: `Flutter`, `Dart`, `Advanced Java`, `Backend Development`, and `AI`.
-- 💡 Passionate about solving real-world problems with code and creating impactful software systems.
-- 🚀 Interested in **Mobile Applications**, **Artificial Intelligence**, and **Desktop Applications**.
-- 🔨 Some of my projects include:
-  - `Employee Net` – HR and employee management system.
-  - `Faseeh` – An app that improves Arabic eloquence.
-  - `مهامي (My Tasks)` – A simple and effective task management tool.
+### 🧠 Interests & Focus | مجالات الاهتمام
+
+- 📱 **Mobile App Development** – باستخدام Flutter وDart
+- 💻 **Desktop Applications** – باستخدام C# وJava
+- 🌐 **Web Development** – Frontend وBackend
+- 🤖 **Artificial Intelligence** – مشاريع تصنيف وتعلم آلي
+- 🛠 **Projects include**:
+  - ✅ **Employee Net** – Network-based employee management tool
+  - ✅ **Faseeh** – تطبيق تعليمي
+  - ✅ **مهامي** – نظام إدارة المهام الشخصي
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.facebook.com/share/19e6TH2UHE/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://t.me/Osama_Saeed_Aljabali" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://www.instagram.com/osama.aljabali.75?utm_source=qr&igsh=MWZzczhxbzUxcG02" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-  </a>
-</p>
+### 🧰 Tools & Technologies | الأدوات والتقنيات
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/Osama-Saeed-Al-Jabali">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+</a>
+</div>
 
 ---
 
-### 🧠 Projects & Highlights
-- 🔸 **Employee Net**: Employee & HR management desktop system (C# + SQL Server).
-- 🔸 **Faseeh**: An app focused on enhancing Arabic language fluency.
-- 🔸 **مهامي (My Tasks)**: Smart and clean to-do application.
-- 🔸 Many mini-projects that combine practical skills and real-world problem solving.
+### 🔁 Code Workflow
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Bugged!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixed!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works!"/>
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-saeed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-saeed&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+### 📫 Let's Connect | تواصل معي
+
+- 🤝 Available for academic collaboration and tech community projects
+- 🌍 هدفي بناء مجتمع تقني عربي يشارك المعرفة ويبدع
+- 📩 Reach me on:
+  - [Facebook](https://www.facebook.com/share/19e6TH2UHE/)
+  - [Telegram](https://t.me/Osama_Saeed_Aljabali)
+  - [Instagram](https://www.instagram.com/osama.aljabali.75?utm_source=qr&igsh=MWZzczhxbzUxcG02)
+
+---
+
+<div align="center">
+  
+> **"Build to Learn. Code to Impact. Share to Grow." – Osamah Saeed**
+
+</div>
