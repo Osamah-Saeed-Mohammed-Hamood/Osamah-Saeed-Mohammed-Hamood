@@ -5,75 +5,60 @@
 
 ### 👋 Welcome to my GitHub space!
 
-I'm **Abdullah Alatabee**, a software engineering student at **Ibb University**, passionate about building smart, scalable, and real-world software solutions using **C#**, **SQL Server**, and **Windows Desktop Applications**. I also run educational tech platforms under the name **AL-ATABEE-CODE**, where I share tutorials, code examples, and real-life projects in Arabic to support tech students and junior developers.
+I'm **Osamah Saeed Mohammed**, a Computer Science & IT student at **Ibb University**, passionate about building practical, scalable software solutions using **Java**, **Python**, **C#**, **SQL Server**, **Dart**, and **Web Technologies**. I enjoy crafting smart desktop, mobile, and AI-powered systems. I also share my work and connect with developers on my social platforms.
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me | عني
 
-- 🎓 Software Engineering Student at *Ibb University*
-- 💻 Passionate about **Desktop Development**, **AI**, and **Data Mining**
-- 📲 Also exploring **Mobile App Development** using **Flutter**
-- 🤖 I love building **intelligent systems** and **algorithm simulations**
-- 📡 Sharing knowledge through my platforms:
-  - [Facebook Page – AL-ATABEE-CODE](https://www.facebook.com/61564833657229/)
-  - [YouTube Channel – AL-ATABEE-CODE](http://www.youtube.com/@AL-ATABEE-CODE)
-  - [Telegram Channel – AL-ATABEE-CODE](https://t.me/pro_st_ru_ab_o)
-
----
-
-### 🧠 Interests & Fields of Focus
-
-- 🧮 **Desktop Development**: Windows Forms & Console Apps in C#
-- 📊 **Artificial Intelligence**:
-  - Student Dropout Prediction Model (AI-based)
-  - Diabetes Diagnosis Classifier using Machine Learning
-- 💾 **Data Mining** & Data-Driven Applications
-- 📱 **Mobile App Development** with **Flutter**
-- 📈 **Accounting Systems** using C# & SQL Server
-- 🏫 **College Management Systems** using **C++ (Console Application)**
-- 🔁 **Automata Simulation Systems** for formal languages & machines
+- 🎓 Computer Science & IT student at *Ibb University*
+- 💻 Skilled in **Mobile Apps**, **Desktop Development**, and **AI Systems**
+- 🌐 Exploring **Web Development** and full-stack solutions
+- 🤖 Interested in **Artificial Intelligence** and real-life problem-solving
+- 🧠 أحب بناء الأنظمة الذكية وتطبيقات الهاتف وسطح المكتب
+- 🔗 تواصل معي:
+  - [Facebook – Osama Aljabali](https://www.facebook.com/share/19e6TH2UHE/)
+  - [Telegram – @Osama_Saeed_Aljabali](https://t.me/Osama_Saeed_Aljabali)
+  - [Instagram – osama.aljabali.75](https://www.instagram.com/osama.aljabali.75?utm_source=qr&igsh=MWZzczhxbzUxcG02)
 
 ---
 
-### 📦 Highlighted Projects
+### 🧠 Interests & Focus | مجالات الاهتمام
 
-- 🔧 **Smart Icon Generator** – Convert images to icons in multiple sizes.
-- 🍔 **Restaurant Management System** – Built in C# with database integration.
-- 🔍 **Automata Visual Simulator** – Simulates FSM, DFA, NFA, PDA, and Turing Machine using C# and custom controls.
-- 🧠 **Dropout Prediction AI** – Classifies whether a student is likely to continue studying.
-- 🩺 **Diabetes Prediction System** – AI classifier based on patient medical data.
-- 💰 **Full Accounting System** – Built with C# & SQL Server.
-- 🏛️ **College Management Console App** – Developed in C++.
+- 📱 **Mobile App Development** – باستخدام Flutter وDart
+- 💻 **Desktop Applications** – باستخدام C# وJava
+- 🌐 **Web Development** – Frontend وBackend
+- 🤖 **Artificial Intelligence** – مشاريع تصنيف وتعلم آلي
+- 🛠 **Projects include**:
+  - ✅ **Employee Net** – Network-based employee management tool
+  - ✅ **Faseeh** – تطبيق تعليمي
+  - ✅ **مهامي** – نظام إدارة المهام الشخصي
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Technologies | الأدوات والتقنيات
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-blue?style=flat&logo=windows)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/AbdullahAlatabee">
+<a href="https://github.com/Osama-Saeed-Al-Jabali">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
@@ -94,16 +79,19 @@ I'm **Abdullah Alatabee**, a software engineering student at **Ibb University**,
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect | تواصل معي
 
-- 💬 I'm open to collaboration on academic projects, software development, and research in AI.
-- 🌍 Join me in building a strong Arabic-speaking tech community!
-- ✉️ Reach out via [Facebook](https://www.facebook.com/61564833657229/) | [YouTube](https://youtube.com/@AL-ATABEE-CODE) | [Telegram](https://t.me/pro_st_ru_ab_o)
+- 🤝 Available for academic collaboration and tech community projects
+- 🌍 هدفي بناء مجتمع تقني عربي يشارك المعرفة ويبدع
+- 📩 Reach me on:
+  - [Facebook](https://www.facebook.com/share/19e6TH2UHE/)
+  - [Telegram](https://t.me/Osama_Saeed_Aljabali)
+  - [Instagram](https://www.instagram.com/osama.aljabali.75?utm_source=qr&igsh=MWZzczhxbzUxcG02)
 
 ---
 
 <div align="center">
-
-> **"Code with purpose. Learn with passion. Share with heart."** – Abdullah Alatabee
+  
+> **"Build to Learn. Code to Impact. Share to Grow." – Osama Saeed**
 
 </div>
