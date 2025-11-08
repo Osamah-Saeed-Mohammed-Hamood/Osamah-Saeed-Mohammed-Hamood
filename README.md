@@ -98,5 +98,5 @@ A platform for video/voice calls and live chat with admin dashboards, powered by
   <i>“Code is like poetry — concise, expressive, and built to inspire.”</i>
   <br/>
   <br/>
-  © 2024–2025
+  © 2025–2026
 </div>
