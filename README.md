@@ -82,10 +82,20 @@ A platform for video/voice calls and live chat with admin dashboards, powered by
 
 ## 📫 Contact Me
 
-💬 Email: [engosamahsaeed@gmail.com](mailto:engosamahsaeed@gmail.com)
-
+<div align="center">
+  <a href="mailto:engosamahsaeed@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/967778347527">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 ---
 
 <div align="center">
   <i>“Code is like poetry — concise, expressive, and built to inspire.”</i>
+  <br/>
+  <br/>
+  © 2024–2025
 </div>
