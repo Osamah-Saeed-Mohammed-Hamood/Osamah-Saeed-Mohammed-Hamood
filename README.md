@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Arabic Compiler (Faseeh)**
+🔹 **Arabic Compiler**
 <br>
 A ground-up compiler for an Arabic-based programming language including Lexer, Parser, Semantic Analyzer, and Virtual Machine.
 
